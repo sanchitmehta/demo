@@ -14,7 +14,7 @@ Improvements and pull requests are welcome.
 
 ## Run
 
-To run this demo, you need to clone it and install dependencies:
+To run this demo, you need to clone it and install dependencies:.
 
 ```
 git clone https://github.com/PHP-DI/demo.git
